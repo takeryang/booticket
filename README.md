@@ -2,6 +2,7 @@
 
 https://takeryang.github.io/booticket/#/
 
+支援行動裝置
 
 #前台
 
