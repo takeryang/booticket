@@ -1,5 +1,8 @@
 # booticket
 
+https://takeryang.github.io/booticket/#/
+
+
 #前台
 
 需註冊會員才能結帳
