@@ -14,7 +14,6 @@ firebase、vue-axios、vue-loading-overlay、vee-validate、vue-the-mask、AOS
 
 #前台
 
-需註冊會員才能結帳
 
 會員帳號:
 1.提供註冊新帳號
