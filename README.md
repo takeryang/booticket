@@ -3,7 +3,7 @@
 https://takeryang.github.io/booticket/#/
 
 使用技術
-HTML、CSS、JavaScript、Vue.js、Bootstrap、Sass、AJAX
+HTML、CSS、JavaScript、Vue.js、Bootstrap、Sass、AJAX、Vue Cli、Vue Router
 
 相關技術
 firebase、vue-axios、vue-loading-overlay、vee-validate、vue-the-mask、AOS
@@ -14,7 +14,6 @@ firebase、vue-axios、vue-loading-overlay、vee-validate、vue-the-mask、AOS
 
 #前台
 
-需註冊會員才能結帳
 
 會員帳號:
 1.提供註冊新帳號
